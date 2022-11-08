@@ -1,3 +1,3 @@
-# Multicast_Optimization
+# Multicast Optimization: Operational Research Theory and Applications
 # Project Summery:
 The primary goal of multicasting routing is to transport data from one or more sources to several destinations while simultaneously making the most efficient use of the available resources. This may be accomplished by routing the data. Bandwidth, time, and connection expenses are a few examples of resources that may potentially have their usage reduced. In this paper, we try to optimize multicast routing. We discuss the important problem and a solution considered in this area and their mathematical models. A Phyton emulation for the main problem and solution are also investigated.
